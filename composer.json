@@ -10,6 +10,7 @@
         "laravel/sanctum": "^2.14",
         "laravel/tinker": "^2.7",
         "mitydigital/feedamic": "^2.2",
+        "simonridley/tracking-code-manager": "^1.0",
         "statamic/cms": "^4.0",
         "torchlight/torchlight-commonmark": "^0.5.5"
     },

@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "d7c49148ac1cf2cd3daf899acdde64b8",
+    "content-hash": "7f4d35efdacd1876590c704877206abf",
     "packages": [
         {
             "name": "ajthinking/archetype",
@@ -5126,6 +5126,67 @@
                 "source": "https://github.com/Seldaek/signal-handler/tree/2.0.2"
             },
             "time": "2023-09-03T09:24:00+00:00"
+        },
+        {
+            "name": "simonridley/tracking-code-manager",
+            "version": "v1.0.2",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/simonridley/tracking-code-manager.git",
+                "reference": "f03aab8c32ceeb3c3f46b495b9ae428cf57c00bf"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/simonridley/tracking-code-manager/zipball/f03aab8c32ceeb3c3f46b495b9ae428cf57c00bf",
+                "reference": "f03aab8c32ceeb3c3f46b495b9ae428cf57c00bf",
+                "shasum": ""
+            },
+            "type": "statamic-addon",
+            "extra": {
+                "statamic": {
+                    "name": "Tracking Code Manager",
+                    "description": "Tracking Code Manager addon"
+                },
+                "laravel": {
+                    "providers": [
+                        "Simonridley\\TrackingCodeManager\\ServiceProvider"
+                    ]
+                }
+            },
+            "autoload": {
+                "psr-4": {
+                    "Simonridley\\TrackingCodeManager\\": "src"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "proprietary"
+            ],
+            "authors": [
+                {
+                    "name": "Simon Ridley",
+                    "email": "statamic@simonridley.co.uk",
+                    "role": "Developer"
+                }
+            ],
+            "homepage": "https://twitter.com/simonridley",
+            "keywords": [
+                "addon",
+                "analytics",
+                "codes",
+                "google",
+                "pixels",
+                "statamic",
+                "statamic-addon",
+                "statamic-v3",
+                "tracking"
+            ],
+            "support": {
+                "email": "statamic@simonridley.co.uk",
+                "issues": "https://github.com/simonridley/tracking-code-manager/issues",
+                "source": "https://github.com/simonridley/tracking-code-manager/tree/v1.0.2"
+            },
+            "time": "2023-08-31T12:01:29+00:00"
         },
         {
             "name": "spatie/blink",
@@ -11458,5 +11519,5 @@
     "platform-overrides": {
         "php": "8.1"
     },
-    "plugin-api-version": "2.6.0"
+    "plugin-api-version": "2.3.0"
 }
