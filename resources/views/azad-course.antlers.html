@@ -79,20 +79,6 @@
 
     <script src="//unpkg.com/alpinejs" defer></script>
 
-    <script>
-      const setDarkClass = () => {
-        if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
-          document.documentElement.classList.add('dark')
-        } else {
-          document.documentElement.classList.remove('dark')
-        }
-      }
-
-      setDarkClass()
-
-      window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', setDarkClass)
-    </script>
-
     {{ if environment === 'production' }}
     <!--            Google Analytics-->
     {{ /if }}
