@@ -16,3 +16,5 @@ use Illuminate\Support\Facades\Route;
 // Route::statamic('example', 'example-view', [
 //    'title' => 'Example'
 // ]);
+
+Route::redirect('/azad-laravel-course', '/articles/azad-laravel-course', 301);
