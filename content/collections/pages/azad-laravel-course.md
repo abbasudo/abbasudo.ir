@@ -1,8 +1,8 @@
 ---
 id: 2c8f79db-27ec-47f9-aea7-2e4d5f310896
 blueprint: page
-title: 'Laravel course'
-description: 'Laravel Course'
+title: 'Laravel for Beginners Course'
+description: 'In this article, I talked about details of the on-site laravel course that I planning to hold in June 2024.'
 template: articles/persian
 updated_by: 8a797ce5-64a8-4ca6-a356-d5382ab15ad3
 updated_at: 1716887694
