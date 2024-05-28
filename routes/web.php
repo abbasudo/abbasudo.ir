@@ -17,4 +17,4 @@ use Illuminate\Support\Facades\Route;
 //    'title' => 'Example'
 // ]);
 
-Route::redirect('/azad-laravel-course', '/articles/azad-laravel-course', 301);
+//Route::redirect('/azad-laravel-course', '/articles/azad-laravel-course', 301);
