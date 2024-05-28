@@ -18,3 +18,4 @@ use Illuminate\Support\Facades\Route;
 // ]);
 
 Route::permanentRedirect('/blog', '/articles');
+Route::permanentRedirect('/azad-laravel-course', '/articles/azad-laravel-course');

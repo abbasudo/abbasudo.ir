@@ -66,6 +66,7 @@ return [
         '/feed',
         '/feed/atom',
         '/blog',
+        '/azad-laravel-course',
     ],
 
     /*
