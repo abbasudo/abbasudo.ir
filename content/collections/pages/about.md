@@ -8,7 +8,7 @@ updated_at: 1733080568
 description: "I've been making computers do my bidding for over 6 years. I've done everything from creating web applications to building the servers they run on. I mostly build with Laravel, Nuxt, and Tailwind."
 parent: home
 ---
-<img src="/assets/abbas.jpg" class="sm:float-right mx-auto sm:ml-6 mb-10 w-56 sm:w-48 grayscale rounded-md shadow-lg sm:rotate-2 hover:grayscale-0 sm:hover:rotate-3 hover:scale-105 hover:shadow-2xl transition duration-150"  alt="abbas mkhzomi"/>
+<img src="/assets/abbas.jpg" class="sm:float-right mx-auto sm:ml-6 mb-10 w-56 sm:w-48 rounded-md shadow-lg sm:rotate-2 hover:grayscale-0 sm:hover:rotate-3 hover:scale-105 hover:shadow-2xl transition duration-150"  alt="abbas mkhzomi"/>
 
 
 # Hi there, <span class="whitespace-nowrap">I'm Abbas Mkhzomi.</span>
