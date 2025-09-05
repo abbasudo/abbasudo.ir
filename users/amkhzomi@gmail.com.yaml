@@ -1,7 +1,8 @@
 name: 'Abbas Mkhzomi'
 super: true
 id: 8a797ce5-64a8-4ca6-a356-d5382ab15ad3
-password_hash: $2y$10$HPsQW6zIMiYWoOsuciGEoeDL1HAIFC4JPO0gzvOc6E7hDmGwMCsn2
+password_hash: $2y$10$GayvBgAgaeu3oM2EC.254ugHX5cM3waZ/7UMAbSne2YlXz3fkr2n2
+#password: 1234
 preferences:
   collections:
     pages:
