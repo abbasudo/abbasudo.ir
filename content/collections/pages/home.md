@@ -12,5 +12,5 @@ description: "Hi there! I'm Abbas Mkhzomi from Iraq."
 
 # Back-end developer and web artisan.
 
-Hi there! I'm Abbas Mkhzomi, originally from Baghdad, Iraq, and currently located in Iran.</br>
+Hi there! I'm Abbas Mkhzomi, originally from Baghdad, Iraq, and currently located in Milan, Italy.</br>
 I’m passionate about building things, open-source, and startups.
